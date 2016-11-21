@@ -1796,8 +1796,19 @@ footer .nav {
 	border-color: #d44646;
 	color: #fff
 }
-
-
-
-
-
+.list-inline.footer_icons > li {
+    padding: 0;
+    margin: 0;
+    height: 0;
+}
+.list-inline.footer_icons{
+	margin-bottom: -35px;
+	padding: 0px;
+}
+.list-inline.footer_icons > li > a > i{
+    width: 40px;
+    height: 40px;
+    font-size: 20px;
+    padding: 7px 1px 2px 2px;
+    margin: 4px 15px 0px 0px !important;
+}
