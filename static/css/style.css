@@ -1812,3 +1812,11 @@ footer .nav {
     padding: 7px 1px 2px 2px;
     margin: 4px 15px 0px 0px !important;
 }
+.social-icons{
+	position: fixed;
+	top: 25%;
+}
+.social-icons ul{
+	list-style: none;
+	padding: 0px;
+}
