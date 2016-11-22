@@ -2,11 +2,11 @@
 ========================================================================
 This css file will overwrite bootstrap css
 ------------------------------------------------------------------------
-# Template Name: John & Jane Wedding Template
+# Template Name: Akhil & Aneesha Wedding Template
 # Template URI: http://codepassenger.com/
 # Author: codepassenger
 # Author URI: http://codepassenger.com/
-# Description: John & Jane Responsive One Page Weeding HTML5 CSS3 template by CodePassenger
+# Description: Akhil & Aneesha Responsive One Page Weeding HTML5 CSS3 template by CodePassenger
 # Version: 1.0
 # License: GPL v2 or later
 # License URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
@@ -1826,3 +1826,7 @@ footer .nav {
     opacity: 0.70;
     border-radius: 50px;
 }*/
+.heading.wow.animated.fadeInUp.animated.animated > p{
+	width: 90%;
+	margin: 0px auto;
+}
